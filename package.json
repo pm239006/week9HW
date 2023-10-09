@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mui/x-data-grid": "^6.16.1",
+    "firebase": "^9.23.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-hook-form": "^7.46.2",
+    "reactfire": "^4.2.3",
+    "tslib": "^2.6.2"
+  }
+}
